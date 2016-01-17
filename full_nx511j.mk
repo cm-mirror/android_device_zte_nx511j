@@ -27,5 +27,5 @@ $(call inherit-product, device/zte/nx511j/device.mk)
 PRODUCT_DEVICE := nx511j
 PRODUCT_NAME := full_nx511j
 PRODUCT_BRAND := ZTE
-PRODUCT_MODEL := Z9MINI
+PRODUCT_MODEL := NX511J
 PRODUCT_MANUFACTURER := ZTE
